@@ -1,0 +1,1 @@
+/home/hari/runner_ws/devel/.private/manual_movements/lib/pkgconfig/manual_movements.pc

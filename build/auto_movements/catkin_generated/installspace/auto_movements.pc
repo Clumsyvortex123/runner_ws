@@ -1,0 +1,8 @@
+prefix=/home/hari/runner_ws/install
+
+Name: auto_movements
+Description: Description of auto_movements
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

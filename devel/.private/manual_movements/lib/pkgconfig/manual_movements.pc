@@ -1,0 +1,8 @@
+prefix=/home/hari/runner_ws/devel/.private/manual_movements
+
+Name: manual_movements
+Description: Description of manual_movements
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
